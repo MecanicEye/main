@@ -22,7 +22,6 @@ nav {
     background-color: lightsteelblue;
     padding: 10px 0;
     text-align: center;
-    
 }
 
 nav a {
@@ -39,6 +38,7 @@ section {
     margin: 1vw;
     text-align: center;
 }
+
 .container{
     background-color: lightsteelblue;
     margin: 0 1.6vw;
@@ -60,6 +60,7 @@ section {
     opacity: 0.8;
     padding: 1vw;
     border-radius: 10px;
+    border: 1px solid lightslategray;
     margin-top: 7vh;
 }
 footer {
