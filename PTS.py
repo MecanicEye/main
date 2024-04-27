@@ -241,24 +241,3 @@ if __name__ == '__main__':
 
 
 
-#op4 simular ia 
-
-
-
-#p3 adicionar seguros---FEITO
-# complementar op1 com localicao, horario, qual o carro e oficina ---FEITO
-# tirar o a ouvidoria das opcaoes ---FEITO
-#0p2 complementar com o motorista e com e minutagem import random---FEITO
-#num=random.randint(1,1000)---FEITO muito legal isso aqui kkkkkkkkkkkkkkkkkkkk
-
-#print('1 - O seu carro está fazendo um barulho estranho')
-            #print('2 - Voltar ao menu principal')
-            #op10=int(input('Escolha uma opção para prosseguir'))
-            #if op10==1:
-                #print('O som estranho que seu veículo faz tem uma timbre de atrito como se duas partes estivessem se colidindo, ou mais áspero com um se as engrenagens estiessem sem óleo? ')
-                #print('Digite 1 para um som de atrito ou 2 para um som áspero\n')
-                #m10=int(input('Digite uma opção para prosseguir'))
-               # if m10==1:
-               #     print('Seu carro pode se enquadrar nos seguintes diagnósticos: \n pastilha de freio desgastada\n Uma alta tensão da correia dentada\n Problemas nos rolamentos')
-               # if m10==2:
-               #     print('Seu carro pode se enquadrar nos seguintes diagnósticos: \n Falha nos amortecedor\n Problemas no ar-condicionado\n Indício de vazamento')
