@@ -1,0 +1,8 @@
+.box{
+    width: 15vw;
+    background-color: lightskyblue;
+}
+.imgBox{
+    border-radius: 100px;
+    height: 17vh;
+}
